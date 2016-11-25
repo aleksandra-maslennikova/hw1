@@ -7,7 +7,7 @@ let user =  { name: 'Sasha',
              dayOfBirth: 21,
              monthOfBirth: 6,
              yearOfBirth: 1985,
-             programmingSkills: ['js', 'html', 'css'],
+             programmingSkills: ['js', 'html', 'css']
             };
 user.friend = friend;
 
